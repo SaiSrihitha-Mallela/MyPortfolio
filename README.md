@@ -1,6 +1,5 @@
-# My Personal Portfolio Website
 
-# Hello Everyone! 👋  
+#Hello Everyone! 👋  
 
 I am **Sai Srihitha Mallela**, currently pursuing my **B.Tech degree in Computer Science Engineering** at **Keshav Memorial Institute of Technology**.  
 
