@@ -10,7 +10,7 @@ It showcases my **projects, skills, and experience** as a **Full-Stack Developer
 
 ## Built With
 
-My personal portfolio <a href="https://my-portfolio-git-main-sai-srihithas-projects.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://my-portfolio-git-main-sai-srihithas-projects.vercel.app/" target="_blank">Sai Srihitha Mallela</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
